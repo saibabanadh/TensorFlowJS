@@ -93,7 +93,7 @@
 
 ## Gesture-Recognition.html :
 
-[![Hand-Tracking Demo](https://img.youtube.com/vi/awCD4Jpicng/0.jpg)](https://www.youtube.com/watch?v=awCD4Jpicng)
+[![Hand-Tracking Demo](https://img.youtube.com/vi/CTGRbU9-P6U/0.jpg)](https://www.youtube.com/watch?v=CTGRbU9-P6U)
 
 			Using Hand-Gestures to move objects in Virtual / Augmented Worlds
 
@@ -105,4 +105,19 @@
 
 			More gesture-controlled features to Pause, Browse, Scroll, Zoom Media Stream to be added..
 
-Tech Stack: TensorFlow.JS, JavaScript, HTML5, Mobile-Net, Knn-Classifier, Coco-SSD
+## Sound-Box.html :
+
+[![Sound-Box Demo](https://img.youtube.com/vi/REbq8Fq0BIw/0.jpg)](https://www.youtube.com/watch?v=REbq8Fq0BIw)
+
+			Music Generation using Hand-Gestures
+
+			Generates sounds using Tone.JS Java Script library, 
+			based on Hand Positions captured by TensorFlow.JS Hand-Pose model..
+
+			Each sound-box at (x, y) produces a sound with frequency f(x,y)
+
+			Link to Tone.JS library:
+
+			https://tonejs.github.io
+
+Tech Stack: TensorFlow.JS, JavaScript, HTML5, Mobile-Net, Knn-Classifier, Coco-SSD, Tone.JS
