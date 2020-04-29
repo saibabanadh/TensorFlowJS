@@ -4,7 +4,7 @@
 
 ## Facemesh-Camera.html :
 
-[![Face-Mesh Demo](https://img.youtube.com/vi/8OIEeK09DVg/0.jpg)](https://www.youtube.com/watch?v=8OIEeK09DVg)
+![Face-Mesh Demo](demos/facemesh.gif)
 
 			Real-time Face Tracking using TensorFlow.js
 
@@ -22,7 +22,7 @@
 
 ## Body-Segment.html   :
 
-[![Body-Segmentation Demo](https://img.youtube.com/vi/ryzB5qCP8KY/0.jpg)](https://www.youtube.com/watch?v=ryzB5qCP8KY)
+![Body-Segmentation Demo](demos/body-segment.gif)
 
 			Body Segmentation using TensorFlow.JS Body-Pix model
 
@@ -35,7 +35,7 @@
 
 ## Video-Tagging.html  :
 
-[![Video-Tagging Demo](https://img.youtube.com/vi/2U7XreZlw_U/0.jpg)](https://www.youtube.com/watch?v=2U7XreZlw_U)
+![Video-Tagging Demo](demos/wild-life.gif)
 
 			Identifies animal species in Wild-Life documentary films using
 			Mobile-Net Image Classification model in TensorFlow.JS
@@ -48,7 +48,7 @@
 
 ## Object-Detection.html :
 
-[![Object Detection Demo](https://img.youtube.com/vi/MrTGiH3UEoQ/0.jpg)](https://www.youtube.com/watch?v=MrTGiH3UEoQ)
+![Object Detection Demo](demos/object-detection.gif)
 
 			Marks Bounding Boxes around the Objects detected in the video using
 			TensorFlow.JS COCO-SSD model..
@@ -59,7 +59,7 @@
 
 
 ## Activity-Recognition.html :
-[![Activity Recognition Demo](https://img.youtube.com/vi/7QB1AgsR-qc/0.jpg)](https://www.youtube.com/watch?v=7QB1AgsR-qc)
+![Activity Recognition Demo](demos/sports-activity.gif)
 
 			Builds a KNN Classifier for Sports Activity Recognition using
 			Transfer Learning on a pre-trained model Mobile-Net
@@ -80,7 +80,7 @@
 
 ## Green-Screen.html :
 
-[![Chroma-Key Demo](https://img.youtube.com/vi/ZUDdECVFBOE/0.jpg)](https://www.youtube.com/watch?v=ZUDdECVFBOE)
+![Chroma-Key Demo](demos/chroma-key.gif)
 
 			Extracts person from an input video stream using Body-Pix model in
 			TensorFlow.JS and replaces the video backdrop
@@ -91,9 +91,9 @@
 
 			https://github.com/tensorflow/tfjs-models/tree/master/body-pix
 
-## Gesture-Recognition.html :
+## Hand-Tracking.html :
 
-[![Hand-Tracking Demo](https://img.youtube.com/vi/CTGRbU9-P6U/0.jpg)](https://www.youtube.com/watch?v=CTGRbU9-P6U)
+![Hand-Tracking Demo](demos/augmented-gesture.gif)
 
 			Using Hand-Gestures to move objects in Virtual / Augmented Worlds
 
@@ -107,7 +107,7 @@
 
 ## Sound-Box.html :
 
-[![Sound-Box Demo](https://img.youtube.com/vi/REbq8Fq0BIw/0.jpg)](https://www.youtube.com/watch?v=REbq8Fq0BIw)
+![Sound-Box Demo](demos/music-gestures.gif)
 
 			Music Generation using Hand-Gestures
 
